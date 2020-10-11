@@ -1,0 +1,1 @@
+This repository retrieves data from my personal Spotify account using the Spotipy library. The data is processed and pushed into an Azure Cosmos database as JSON files. 
